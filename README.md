@@ -1,3 +1,8 @@
+This react website to build to track covid cases in your state or in your country with data as well as graph interface;
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
